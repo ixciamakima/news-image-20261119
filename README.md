@@ -1,8 +1,8 @@
 # The World in One Day — Thursday 19 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261119)
-[![Prize $250](https://img.shields.io/badge/prize-%24250-green)](https://make.fun/bounty/news-image-20261119)
-[![Top 50 paid](https://img.shields.io/badge/top_50-paid-orange)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ixciamakima/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ixciamakima/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Entry for the make.fun competition
 [news-image-20261119](https://make.fun/bounty/news-image-20261119) —
